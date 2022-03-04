@@ -1,0 +1,42 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin: 20px;
+}
+
+h4{
+    line-height: 0%;
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+blockquote{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+li.A,.B,.C,.D,.E,.F{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li.AA,.BB,.CC,.DD,.EE,.FF,.GG{
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li{
+    line-height: 180%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+ul{
+    list-style-type: square;
+    line-height: 180%;
+}
+
+
